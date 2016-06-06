@@ -21,7 +21,7 @@ echo ---------------------------------------------------------------------------
 echo Check read max speed!
 while [ $i -le $END ]; do
 	echo ------------------------------------------------------------------------------
-    sudo hdparm -tT /dev/sda
+    sudo hdparm -t /dev/sda
     i=$(($i+1))
 	sleep 1
 done
