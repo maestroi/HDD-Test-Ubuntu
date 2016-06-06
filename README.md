@@ -7,3 +7,6 @@ This simple script will Test the following on sda:
 1. What sata is enabled
 2. Disk Read speed 3 times
 3. Disk Write speed 3 times
+
+Download with:
+wget -q https://raw.githubusercontent.com/maestroi/hddtest/master/hddtest.sh
