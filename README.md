@@ -14,5 +14,5 @@ Download with:<br>
 wget -q https://raw.githubusercontent.com/maestroi/hddtest/master/hddtest.sh <br>
 
 Example:<br>
-<img src="https://chuck.ovh/screenshot/92AcvJyV9o2Y.png" alt="Benchmark on SSD" style="width:967px;height:889px;">
+<img src="https://chuck.ovh/screenshot/N39EpAwED5kk.png" alt="Benchmark on SSD" style="width:967px;height:889px;">
 
