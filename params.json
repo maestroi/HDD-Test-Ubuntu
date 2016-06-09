@@ -1,0 +1,6 @@
+{
+  "name": "Hdd-test-ubuntu",
+  "tagline": "Test HDD speed on Ubuntu Linux 16.04LTS",
+  "body": "# HDD Test<br>\r\nTest HDD speed on Linux<br>\r\n\r\nThis is created and tested on Ubuntu 16.04 LTS! <br>\r\nServer used: DEDIBOX® XC 2016 from online.\r\n\r\nThis simple script will Test the following on sda:<br>\r\n1. What sata busspeed is enabled<br>\r\n2. Disk Read speed 3 times<br>\r\n3. Disk Write speed 3 times<br>\r\n\r\nPlease run as root :)!<br>\r\nDownload with:<br>\r\nwget -q https://raw.githubusercontent.com/maestroi/hddtest/master/hddtest.sh <br>\r\n\r\nExample:<br>\r\n<img src=\"https://chuck.ovh/screenshot/N39EpAwED5kk.png\" alt=\"Benchmark on SSD\" style=\"width:967px;height:889px;\">\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
